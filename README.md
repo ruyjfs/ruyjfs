@@ -3,7 +3,7 @@
 <h4 align="center">May we leave a world better than the one we found!! 🌎🍃☀️</h4>
 
 ```bash
-I'm a software engineer with a passion for technology and where we got to with it 
+I'm a software engineer with a passion for technology and where we got to with it...
 ```
 
 **Languages and Tools:**  
