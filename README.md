@@ -1,6 +1,6 @@
 ### Hi there, 👋🏼 👨🏻‍💻
 
-<h3 align="center"> I'm <a href="https://ruyjfs.com">Ruy</a>.</h3>
+<h3 align="center"> I'm <a href="https://ruyjfs.com" target="_blank">Ruy</a>.</h3>
 <h4 align="center">May we leave a world better than the one we found!! 🌎🍃☀️</h4>
 
 **Languages and Tools:**  
@@ -17,10 +17,11 @@
 - 🌱 I’m currently learning Elixir and Go...
 
 <p align="center">
-  <a href="https://ruyjfs.com">Site </a> • 
-  <a href="https://twitter.com/ruyjfs">Twitter</a> • 
-  <a href="https://ruyjfs.com/religare">Religare App</a> • 
-  <a href="https://ruyjfs.com/religare">Planus</a> 
+  <a href="https://ruyjfs.com" target="_blank">Site </a> • 
+  <a href="https://twitter.com/ruyjfs" target="_blank">Twitter</a> • 
+  <a href="https://ruyjfs.com/religare" target="_blank">Religare App</a> • 
+  <a href="https://j3scrum.com/religare" target="_blank">j3scrum</a> • 
+  <a href="https://chrome.google.com/webstore/detail/planus-meu-ponto-de-contr/ncghhkefmcigaaklbaanenhmpomlahli?hl=pt-BR&authuser=0" target="_blank">Planus</a> 
 </p>
 
 
