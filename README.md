@@ -1,4 +1,4 @@
-### Hi there, 👋🏼 👨🏻‍💻  I'm <a href="https://ruyjfs.com" target="_blank">Ruy</a>.
+### Hi there, 👋🏼 👨🏻‍💻
 
 <h4 align="center">May we leave a world better than the one we found!! 🌎🍃☀️</h4>
 
