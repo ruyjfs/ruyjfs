@@ -1,5 +1,7 @@
 ### Hi there, 👋🏼 👨🏻‍💻  I'm <a href="https://ruyjfs.com" target="_blank">Ruy</a>.
-#### I'm a software engineer with a passion for technology and where we got to with it
+```bash
+I'm a software engineer with a passion for technology and where we got to with it 
+```
 <h4 align="center">May we leave a world better than the one we found!! 🌎🍃☀️</h4>
 
 **Languages and Tools:**  
