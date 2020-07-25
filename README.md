@@ -1,8 +1,10 @@
 ### Hi there, 👋🏼 👨🏻‍💻  I'm <a href="https://ruyjfs.com" target="_blank">Ruy</a>.
+
+<h4 align="center">May we leave a world better than the one we found!! 🌎🍃☀️</h4>
+
 ```bash
 I'm a software engineer with a passion for technology and where we got to with it 
 ```
-<h4 align="center">May we leave a world better than the one we found!! 🌎🍃☀️</h4>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
