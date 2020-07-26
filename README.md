@@ -51,8 +51,8 @@ I'm a software engineer with a passion for technology and where we got to with i
 - 🌱 I’m currently learning Elixir and Go...
 
 <p align="center">
-  <a href="https://medium.com/@ruyjfs" target="_blank">Medium </a> • 
   <a href="https://ruyjfs.com" target="_blank">Site </a> • 
+  <a href="https://medium.com/@ruyjfs" target="_blank">Medium </a> • 
   <a href="https://twitter.com/ruyjfs" target="_blank">Twitter</a> • 
   <a href="https://ruyjfs.com/religare" target="_blank">Religare App</a> • 
   <a href="https://j3scrum.com/religare" target="_blank">j3scrum</a> • 
