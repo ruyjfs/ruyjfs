@@ -6,7 +6,7 @@
 I'm a software engineer with a passion for technology and where we got to with it...
 ```
 
-**Languages and Tools:**  
+**Current Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -33,7 +33,7 @@ I'm a software engineer with a passion for technology and where we got to with i
 <code><img height="20" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"></code>
 
 
-**On the past languages and tools:**  
+**Languages and tools worked these years:**  
 <code><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg"></code>
